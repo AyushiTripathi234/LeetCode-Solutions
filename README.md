@@ -25,6 +25,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +38,8 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
