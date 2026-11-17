@@ -8,6 +8,7 @@ My solutions to LeetCode problems using C++
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,4 +43,17 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
