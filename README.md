@@ -27,6 +27,7 @@ My solutions to LeetCode problems using C++
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Bit Manipulation
 |  |
 | ------- |
