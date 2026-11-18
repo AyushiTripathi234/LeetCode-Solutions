@@ -23,6 +23,7 @@ My solutions to LeetCode problems using C++
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
