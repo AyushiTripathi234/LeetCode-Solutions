@@ -7,6 +7,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -26,6 +27,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Bit Manipulation
