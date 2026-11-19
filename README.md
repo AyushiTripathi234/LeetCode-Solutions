@@ -21,6 +21,7 @@ My solutions to LeetCode problems using C++
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -51,6 +52,7 @@ My solutions to LeetCode problems using C++
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
