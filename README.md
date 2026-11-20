@@ -6,6 +6,7 @@ My solutions to LeetCode problems using C++
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -39,6 +40,7 @@ My solutions to LeetCode problems using C++
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Counting
 |  |
@@ -62,4 +64,8 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
