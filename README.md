@@ -14,6 +14,7 @@ My solutions to LeetCode problems using C++
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -30,6 +31,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -40,6 +42,7 @@ My solutions to LeetCode problems using C++
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Counting
