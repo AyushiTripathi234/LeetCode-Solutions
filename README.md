@@ -6,6 +6,7 @@ My solutions to LeetCode problems using C++
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -72,4 +73,8 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
