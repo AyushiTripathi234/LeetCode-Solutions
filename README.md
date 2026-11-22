@@ -7,6 +7,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -26,6 +27,7 @@ My solutions to LeetCode problems using C++
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -72,9 +74,22 @@ My solutions to LeetCode problems using C++
 ## Sorting
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
