@@ -27,6 +27,7 @@ My solutions to LeetCode problems using C++
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -34,6 +35,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -56,6 +58,7 @@ My solutions to LeetCode problems using C++
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
