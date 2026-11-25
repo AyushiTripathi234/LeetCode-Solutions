@@ -7,6 +7,7 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0598-range-addition-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -28,6 +29,7 @@ My solutions to LeetCode problems using C++
 | [0367-valid-perfect-square](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0598-range-addition-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
