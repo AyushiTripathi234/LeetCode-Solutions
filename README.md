@@ -32,6 +32,7 @@ My solutions to LeetCode problems using C++
 | [0598-range-addition-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3360-stone-removal-game](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -62,6 +63,7 @@ My solutions to LeetCode problems using C++
 | ------- |
 | [0415-add-strings](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
