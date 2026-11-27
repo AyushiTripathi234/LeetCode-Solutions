@@ -6,6 +6,7 @@ My solutions to LeetCode problems using C++
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0119-pascals-triangle-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0598-range-addition-ii](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -37,6 +38,7 @@ My solutions to LeetCode problems using C++
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -99,4 +101,8 @@ My solutions to LeetCode problems using C++
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AyushiTripathi234/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
